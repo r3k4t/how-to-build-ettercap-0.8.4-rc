@@ -6,7 +6,7 @@
 
 <h6>solution :</h6>
 
-h4>Terminal Command :</h4>
+<h4>Terminal Command :</h4>
 
 + sudo apt-get install build-essential debhelper bison check cmake flex ghostscript \
    libbsd-dev libcurl4-openssl-dev libgeoip-dev libltdl-dev libluajit-5.1-dev \
